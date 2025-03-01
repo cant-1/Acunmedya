@@ -1,0 +1,14 @@
+/Users/cantasar/Desktop/odev2/odev2/bin/Debug/net8.0/odev2
+/Users/cantasar/Desktop/odev2/odev2/bin/Debug/net8.0/odev2.deps.json
+/Users/cantasar/Desktop/odev2/odev2/bin/Debug/net8.0/odev2.runtimeconfig.json
+/Users/cantasar/Desktop/odev2/odev2/bin/Debug/net8.0/odev2.dll
+/Users/cantasar/Desktop/odev2/odev2/bin/Debug/net8.0/odev2.pdb
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.AssemblyInfoInputs.cache
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.AssemblyInfo.cs
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.csproj.CoreCompileInputs.cache
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.dll
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/refint/odev2.dll
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.pdb
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/odev2.genruntimeconfig.cache
+/Users/cantasar/Desktop/odev2/odev2/obj/Debug/net8.0/ref/odev2.dll
