@@ -1,0 +1,14 @@
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/bin/Debug/net8.0/odev3
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/bin/Debug/net8.0/odev3.deps.json
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/bin/Debug/net8.0/odev3.runtimeconfig.json
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/bin/Debug/net8.0/odev3.dll
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/bin/Debug/net8.0/odev3.pdb
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.AssemblyInfoInputs.cache
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.AssemblyInfo.cs
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.csproj.CoreCompileInputs.cache
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.dll
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/refint/odev3.dll
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.pdb
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/odev3.genruntimeconfig.cache
+/Users/cantasar/Developer/AcunMedya/odev3/odev3/obj/Debug/net8.0/ref/odev3.dll

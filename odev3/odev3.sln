@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev3", "odev3\odev3.csproj", "{95D6344D-8DC2-496F-AE31-433F47220878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{3358E6EA-41FE-4E3D-9B32-C821898728FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D6344D-8DC2-496F-AE31-433F47220878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D6344D-8DC2-496F-AE31-433F47220878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D6344D-8DC2-496F-AE31-433F47220878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D6344D-8DC2-496F-AE31-433F47220878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3358E6EA-41FE-4E3D-9B32-C821898728FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3358E6EA-41FE-4E3D-9B32-C821898728FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3358E6EA-41FE-4E3D-9B32-C821898728FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3358E6EA-41FE-4E3D-9B32-C821898728FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
